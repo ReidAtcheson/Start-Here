@@ -1,8 +1,8 @@
 # Reid Atcheson
 
 
-My name is Reid Atcheson. I have a PhD in Computational and Applied Mathematics (CAAM) from Rice University. I am a senior software engineer 
-for [Numerical Algorithms Group (NAG)](https://www.nag.com/). I work on software for technical computing, numerical analysis, and linear algebra.
+My name is Reid Atcheson. I have a PhD in Computational and Applied Mathematics (CAAM) from Rice University. I am a Research Engineer at [Aquatic Capital Management](https://aquatic.com/).
+I work on software for technical computing, numerical analysis, and linear algebra.
 I also have interest in programming languages and currently am very excited about [Rust](https://www.rust-lang.org/), but I have also used
 a wide variety of other lanugages such as Haskell,Ocaml,SML, and I have even done a little with dependently typed languages such as Coq.
 
